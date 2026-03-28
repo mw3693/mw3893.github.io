@@ -21,3 +21,6 @@ hello()
 ```yaml
 categories: [Mobile, Android]
 tags: [frida, ssl-pinning]
+
+
+![Frida Logo](assets/images/frida-logo.png)
